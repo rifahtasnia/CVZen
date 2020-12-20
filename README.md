@@ -20,3 +20,8 @@ FUTURE PLAN -
 • Multiple CV and Cover letters can be generated using one account
 • Rate and review option for users
 • Keep track of CVs and efficiency rates
+
+CONTRIBUTERS -
+Zahin Raidah Maisha (170042032) 
+Nafisa Mehjabin (170042033) 
+Khandaker Rifah Tasnia (170042042)
