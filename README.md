@@ -14,7 +14,7 @@ COMPLETED FEATURES -
 • Sections can be edited, added, deleted
 • Generate Cover letter along with CV using template
 
-Future plan:
+FUTURE PLAN -
 • Increasing the number of templates
 • In future, the user will be able to create his/her own template
 • Multiple CV and Cover letters can be generated using one account
