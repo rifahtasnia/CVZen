@@ -22,6 +22,6 @@ FUTURE PLAN -
 • Keep track of CVs and efficiency rates
 
 CONTRIBUTERS -
-Zahin Raidah Maisha (170042032) 
-Nafisa Mehjabin (170042033) 
-Khandaker Rifah Tasnia (170042042)
+• Zahin Raidah Maisha (170042032)  
+• Nafisa Mehjabin (170042033)  
+• Khandaker Rifah Tasnia (170042042) 
